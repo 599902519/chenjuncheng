@@ -1,0 +1,26 @@
+.yuan{
+	height: 400upx;
+	width: 400upx;
+	border-radius: 50% ;
+	border: #007AFF solid 40upx;
+	margin: 30upx 150upx;
+	text-align: center;
+}
+.q1,.q5{
+	font-size: 75upx;
+	
+	display: inline-block;
+}
+.q2,.q6{
+	margin-left: 10upx;
+	display: inline-block;
+}
+.q1,.q2{
+	color:darkgreen;
+}
+.q5,.q6{
+	color: orange;
+}
+.unilist{
+	margin-top: 110upx;
+}

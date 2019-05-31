@@ -1,0 +1,24 @@
+.content1{
+	margin-top: 200upx;
+		position:relative;
+			top: 300upx;
+
+}
+
+input{
+	height: 80upx;
+	width: 90%;
+	background: white;
+	margin-top: 10upx;
+	margin: 30upx 30upx;
+	padding-left: 20upx;
+}
+
+button{
+	width: 90%;
+	margin-top: 150upx;
+	
+}
+page{
+	background: #DDDDDD;
+}
